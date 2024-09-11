@@ -1,8 +1,8 @@
-# React + Vite
+# Tarea 2
+# Una breve descripción del proyecto. 
+Se implementa React, Bootstrap 5, para agregar dinamismo y optimización de código.
+# El enlace del sitio web publicado.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# El nombre del estudiante que desarrolló la página web.
+Francis Jonathan David Herrarte Ramirez | 9490-21-288
+Jymy Daniel Francisco Escobar Zacarías  | 9490-21-403
